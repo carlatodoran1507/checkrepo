@@ -1,0 +1,4 @@
+C:\CMake\cmake-3.20.2-windows-x86_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=C:\Qt6\6.1.0\mingw81_64\lib\cmake -G "CodeBlocks - MinGW Makefiles" C:\Facultate\Roxana\IssueUser\issue
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Facultate/Roxana/IssueUser/issue/cmake-build-debug

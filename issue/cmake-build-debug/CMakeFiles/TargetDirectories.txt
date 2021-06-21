@@ -1,0 +1,4 @@
+C:/Facultate/Roxana/IssueUser/issue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Facultate/Roxana/IssueUser/issue/cmake-build-debug/CMakeFiles/issue.dir
+C:/Facultate/Roxana/IssueUser/issue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Facultate/Roxana/IssueUser/issue/cmake-build-debug/CMakeFiles/issue_autogen.dir
